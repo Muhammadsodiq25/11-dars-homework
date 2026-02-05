@@ -4,7 +4,7 @@ import Header from "./components/header/Header"
 import Home from "./pages/home/Home"
 import Fitness from "./pages/fitness/Fitness"
 import Master from "./pages/master/Master"
-import Membership from "./pages/membership/membership"
+import Membership from "./pages/membership/Membership"
 import Gym from "./pages/gym/Gym"
 import gymProductImg from "./assets/gym-product-img.jpg"
 
